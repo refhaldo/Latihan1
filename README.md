@@ -24,7 +24,7 @@ Pilih perintah yang dibutuhkan, lalu jalankan pada GIT
 ![5](https://user-images.githubusercontent.com/46928851/51545999-ca081b00-1e95-11e9-88b5-84d934e01c81.png)
 # 6
 Setelah semua dilakukan, buka dan cek github anda
-![image](https://user-images.githubusercontent.com/44330056/51526951-10458600-1e66-11e9-8a64-3742faeacd89.png)
+![7](https://user-images.githubusercontent.com/46928851/51547524-156ff880-1e99-11e9-87a1-2e5c370ef407.png)
 
 Sekian penjelasan penggunaan Git dari saya.
 Terimakasih.
